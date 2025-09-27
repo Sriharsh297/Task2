@@ -1,0 +1,21 @@
+From: account-security@paypal-alert.com
+To: user@example.com
+Subject: Action Required: Unusual Activity Detected on Your Account
+
+Dear Customer,
+
+We have detected suspicious login activity on your PayPal account from an unrecognized device. For your security, we have temporarily limited your account access. To restore full access, you must verify your identity.
+
+Please click the secure link below to update your account information:
+https://paypal-verify-account-alert.com/login
+
+If you do not verify your account within 24 hours, your account will be permanently suspended.
+
+Thank you for your immediate attention to this matter.
+
+Sincerely,
+PayPal Security Team
+
+[PayPal Logo]
+
+Note: This is an automated message. Please do not reply to this email.
